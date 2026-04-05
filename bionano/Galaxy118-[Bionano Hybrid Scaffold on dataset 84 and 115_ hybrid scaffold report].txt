@@ -1,0 +1,51 @@
+Original BioNano Genome Map statistics:
+Count  = 16
+Min length (Mbp) = 0.227
+Median length (Mbp) = 0.763
+Mean length (Mbp) = 0.752
+N50 length (Mbp) = 0.922
+Max length (Mbp) = 1.530
+Total length (Mbp) = 12.030
+
+Original NGS sequences statistics:
+Count  = 18
+Min length (Mbp) = 0.027
+Median length (Mbp) = 0.622
+Mean length (Mbp) = 0.635
+N50 length (Mbp) = 0.923
+Max length (Mbp) = 1.533
+Total length (Mbp) = 11.424
+
+Conflict Resolution from BNG-NGS alignment:
+Number of conflict cuts made to Bionano maps: 0
+Number of conflict cuts made to NGS sequences: 0
+Number of Bionano maps to be cut: 0
+Number of NGS sequences to be cut: 0
+
+NGS FASTA sequence in hybrid scaffold statistics:
+Count  = 16
+Min length (Mbp) = 0.185
+Median length (Mbp) = 0.706
+Mean length (Mbp) = 0.707
+N50 length (Mbp) = 0.923
+Max length (Mbp) = 1.533
+Total length (Mbp) = 11.312
+
+Hybrid scaffold FASTA statistics:
+Count  = 16
+Min length (Mbp) = 0.185
+Median length (Mbp) = 0.706
+Mean length (Mbp) = 0.707
+N50 length (Mbp) = 0.923
+Max length (Mbp) = 1.533
+Total length (Mbp) = 11.312
+
+Hybrid scaffold FASTA plus not scaffolded NGS FASTA statistics:
+Count  = 18
+Min length (Mbp) = 0.027
+Median length (Mbp) = 0.622
+Mean length (Mbp) = 0.635
+N50 length (Mbp) = 0.923
+Max length (Mbp) = 1.533
+Total length (Mbp) = 11.424
+

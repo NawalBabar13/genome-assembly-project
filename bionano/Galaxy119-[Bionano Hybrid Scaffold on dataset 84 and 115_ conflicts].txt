@@ -1,0 +1,1 @@
+# xMapId	refQry	refId	leftRefBkpt	rightRefBkpt	alignmentOrientation	refQry	qryId	leftQryBkpt	rightQryBkpt	alignmentOrientation
