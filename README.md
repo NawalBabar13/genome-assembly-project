@@ -1,9 +1,13 @@
 # VGP Genome Assembly Pipeline — *Saccharomyces cerevisiae*
 
 > **Course:** BI-436 — Special Topics in Bioinformatics
+
 > **Student:** Nawal Babar | Student ID: 464674
+
 > **Date:** 5 April 2026
+
 > **Platform:** Galaxy (usegalaxy.org) — Vertebrate Genomes Project (VGP) Pipeline
+
 
 [![Galaxy](https://img.shields.io/badge/Platform-Galaxy-blue)](https://usegalaxy.org)
 [![PacBio HiFi](https://img.shields.io/badge/Reads-PacBio%20HiFi-green)](https://www.pacb.com/technology/hifi-sequencing/)
@@ -240,11 +244,11 @@ Each scaffold can be inspected individually. Below are examples:
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| Hap1 BUSCO completeness | ~96% | ✅ Publication-quality |
-| Hap2 BUSCO completeness | ~88.7% | ✅ Expected (hap2 less complete without parental data) |
-| Final scaffolds after YaHS | 16 | ✅ Matches expected chromosome count |
-| Contact map quality | Clean diagonal blocks | ✅ Chromosome-scale confirmed |
-| Assembly trajectory | HiFi + Hi-C + Bionano (D) | ✅ Maximum contiguity approach |
+| Hap1 BUSCO completeness | ~96% |  Publication-quality |
+| Hap2 BUSCO completeness | ~88.7% |  Expected (hap2 less complete without parental data) |
+| Final scaffolds after YaHS | 16 |  Matches expected chromosome count |
+| Contact map quality | Clean diagonal blocks |  Chromosome-scale confirmed |
+| Assembly trajectory | HiFi + Hi-C + Bionano (D) | Maximum contiguity approach |
 
 ---
 
